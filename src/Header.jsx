@@ -5,7 +5,7 @@ export default function Header() {
     return (
         <div>
             <style>{`
-                .container {
+                .hero-container {
                     position: relative;
                     width: 100%;
                     height: 100%;
@@ -82,7 +82,7 @@ export default function Header() {
                 }
             `}</style>
 
-            <div className="container">
+            <div className="hero-container">
                 <img 
                     src={BGImage}
                     alt="Home background"

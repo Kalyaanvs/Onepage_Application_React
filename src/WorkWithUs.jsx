@@ -70,7 +70,7 @@ export default function WorkWithUs(){
             height: 64px;
             margin-bottom: 16px;
             font-size: 56px;
-             line-height: 1;
+            line-height: 1;
         }
     `}
 </style>
