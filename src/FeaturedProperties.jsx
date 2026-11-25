@@ -84,6 +84,9 @@ export default function Products() {
                color: white;
             }
             .large-container {
+               display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
                 display: grid;
                 grid-template-columns: repeat(3, minmax(0, 1fr));
                 gap: 10px;

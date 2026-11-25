@@ -3,6 +3,8 @@ import WorkWithUs from './WorkWithUs.jsx'
 import Products from './FeaturedProperties.jsx'
 import Swipper from './swipper.jsx'
 import FindPerfectHome from './FindPerfectHome.jsx'
+import Review from './review.jsx'
+import Footer from './footer.jsx'
 function App()
 {
   return(
@@ -12,6 +14,8 @@ function App()
      <Products/>
      <Swipper/>
      <FindPerfectHome/>
+     <Review/>
+     <Footer/>
   </>
   )
 }
