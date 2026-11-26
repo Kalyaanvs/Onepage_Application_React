@@ -137,7 +137,7 @@ export default function Products() {
                         background-color:black;
                         color:white
                   }
-
+ 
     
     `}</style>
             <div className="container-properties">
